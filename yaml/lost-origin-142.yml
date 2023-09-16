@@ -1,0 +1,100 @@
+---
+id: swsh11-142
+name: Porygon-Z
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '150'
+types:
+- Colorless
+evolvesFrom: Porygon2
+attacks:
+- name: Downgrading Beam
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: ''
+  text: Devolve 1 of your opponent's evolved Pokémon by removing any number of Evolution
+    cards from it. Your opponent shuffles those cards into their deck.
+- name: Power Beam
+  cost:
+  - Colorless
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '130'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh11
+  name: Lost Origin
+  series: Sword & Shield
+  printedTotal: 196
+  total: 217
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: LOR
+  releaseDate: 2022/09/09
+  updatedAt: 2022/09/09 13:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh11/symbol.png
+    logo: https://images.pokemontcg.io/swsh11/logo.png
+number: '142'
+artist: Shibuzoh.
+rarity: Rare
+flavorText: Porygon-Z had a program installed to allow it to move between dimensions,
+  but the program also caused instability in Porygon-Z's behavior.
+nationalPokedexNumbers:
+- 474
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh11/142.png
+  large: https://images.pokemontcg.io/swsh11/142_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh11-142
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.04
+      mid: 0.18
+      high: 1.69
+      market: 0.14
+      directLow: 0.11
+    normal:
+      low: 0.02
+      mid: 0.13
+      high: 2.0
+      market: 0.11
+      directLow: 0.09
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh11-142
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.1
+    lowPrice: 0.02
+    trendPrice: 0.09
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.21
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.2
+    lowPriceExPlus: 0.02
+    avg1: 0.1
+    avg7: 0.12
+    avg30: 0.11
+    reverseHoloAvg1: 0.23
+    reverseHoloAvg7: 0.23
+    reverseHoloAvg30: 0.2

@@ -1,0 +1,99 @@
+---
+id: swsh11-34
+name: Dewgong
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '120'
+types:
+- Water
+evolvesFrom: Seel
+attacks:
+- name: Swim Freely
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: '10'
+  text: Flip a coin. If heads, during your opponent's next turn, prevent all damage
+    from and effects of attacks done to this Pokémon.
+- name: Floe Return
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 40×
+  text: Shuffle any amount of Water Energy from your Pokémon into your deck. This
+    attack does 40 damage for each card you shuffled into your deck in this way.
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh11
+  name: Lost Origin
+  series: Sword & Shield
+  printedTotal: 196
+  total: 217
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: LOR
+  releaseDate: 2022/09/09
+  updatedAt: 2022/09/09 13:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh11/symbol.png
+    logo: https://images.pokemontcg.io/swsh11/logo.png
+number: '34'
+artist: chibi
+rarity: Rare
+flavorText: It sunbathes on the beach after meals. The rise in its body temperature
+  helps its digestion.
+nationalPokedexNumbers:
+- 87
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh11/34.png
+  large: https://images.pokemontcg.io/swsh11/34_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh11-34
+  updatedAt: 2023/09/16
+  prices:
+    normal:
+      low: 0.04
+      mid: 0.13
+      high: 1.01
+      market: 0.1
+      directLow: 0.08
+    reverseHolofoil:
+      low: 0.08
+      mid: 0.29
+      high: 1.95
+      market: 0.25
+      directLow: 0.25
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh11-34
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.13
+    lowPrice: 0.02
+    trendPrice: 0.12
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.27
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.28
+    lowPriceExPlus: 0.02
+    avg1: 0.25
+    avg7: 0.14
+    avg30: 0.12
+    reverseHoloAvg1: 0.23
+    reverseHoloAvg7: 0.27
+    reverseHoloAvg30: 0.28
